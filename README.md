@@ -13,4 +13,4 @@ Recommended for use with mods by:
 ### Requirements
 [Tera-Proxy](https://github.com/meishuu/tera-proxy) and dependencies
 ### Credits
-"format.js" was made by [teralove](https://github.com/teralove).
+"string.js" was made by [Meishu](https://github.com/meishuu).
