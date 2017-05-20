@@ -2,7 +2,7 @@
 const format = require('./format.js');
 
 // Always block messages that start with "!"
-module.exports = function FpsUtils(dispatch) {
+module.exports = function noMoreCommandTypos(dispatch) {
 	
 	// Hooks chat you send
 	dispatch.hook('C_CHAT', 1, {order: 100}, event => {
