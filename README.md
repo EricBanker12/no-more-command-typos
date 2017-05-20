@@ -1,4 +1,4 @@
-#No More Command Typos
+## No More Command Typos
 Tera-Proxy module for Tera Online. Always blocks sending messages that start with "!"
 ### Requirements
 [Tera-Proxy](https://github.com/meishuu/tera-proxy) and dependencies
