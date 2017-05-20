@@ -1,4 +1,4 @@
-// Made by teralove: https://github.com/teralove
+// Made by Meishu: https://github.com/meishuu
 const entities = {
   amp: '&',
   lt: '<',
