@@ -1,5 +1,5 @@
-// Formats messages - made by teralove: https://github.com/teralove
-const format = require('./format.js');
+// Formats messages - made Meishu: https://github.com/meishuu
+const format = require('./string.js');
 
 // Always block messages that start with "!"
 module.exports = function noMoreCommandTypos(dispatch) {
