@@ -1,7 +1,5 @@
 ## No More Command Typos
-Tera-Proxy module for Tera Online. Always blocks sending messages that start with "!". 
-
-***Warning: Does NOT work for whisper chat***
+Tera-Proxy module for Tera Online. Always blocks sending messages that start with "!". Also works for whisper target and message.
 
 Recommended for use with mods by:
 * [Pinkie Pie](https://github.com/pinkipi)
@@ -13,4 +11,4 @@ Recommended for use with mods by:
 ### Requirements
 [Tera-Proxy](https://github.com/meishuu/tera-proxy) and dependencies
 ### Credits
-"string.js" was made by [Meishu](https://github.com/meishuu).
+"string.js" was made by [Meishu](https://github.com/meishuu) ([source](https://github.com/baldera-mods/slash/blob/master/string.js)).
