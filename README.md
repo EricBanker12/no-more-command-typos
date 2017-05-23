@@ -8,6 +8,7 @@ Recommended for use with mods by:
 * [spaacecats](https://github.com/spaacecats)
 * [teralove](https://github.com/teralove)
 * [TeraProxy](https://github.com/TeraProxy)
+* [Waow-Tuturu](https://github.com/Waow-Tuturu)
 * [wuaw](https://github.com/wuaw)
 ### Requirements
 [Tera-Proxy](https://github.com/meishuu/tera-proxy) and dependencies
